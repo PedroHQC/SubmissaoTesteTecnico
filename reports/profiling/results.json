@@ -1,0 +1,1080 @@
+{
+  "recordedAt": "2026-10-07T07:12:01.312Z",
+  "browser": "153.0.8010.12",
+  "hardware": "{\r\n    \"CPU\":  \"13th Gen Intel(R) Core(TM) i7-13700HX\",\r\n    \"GPU\":  \"NVIDIA GeForce RTX 4070 Laptop GPU\",\r\n    \"RAMKiB\":  33283128,\r\n    \"OS\":  \"Microsoft Windows 11 Pro\"\r\n}\r\n",
+  "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4070 Laptop GPU (0x00002820) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "viewport": "1280x720, DPR 1",
+  "settings": {
+    "sessionTime": 180,
+    "enemySpawnInterval": 1.5,
+    "mode": "arena",
+    "seed": 42,
+    "invulnerable": true
+  },
+  "metrics": {
+    "fps": 60.00185595664444,
+    "p95FrameMs": 16.89999999999418,
+    "maxFrameMs": 21.29999999998836,
+    "frames": 10798,
+    "elapsedSeconds": 179.9611000000119
+  },
+  "entities": [
+    {
+      "second": 1.003700000011921,
+      "enemies": 1,
+      "playerShots": 17
+    },
+    {
+      "second": 2.003700000011921,
+      "enemies": 1,
+      "playerShots": 16
+    },
+    {
+      "second": 3.0040000000119207,
+      "enemies": 2,
+      "playerShots": 15
+    },
+    {
+      "second": 4.02050000001192,
+      "enemies": 3,
+      "playerShots": 12
+    },
+    {
+      "second": 5.020600000011921,
+      "enemies": 4,
+      "playerShots": 10
+    },
+    {
+      "second": 6.020600000011921,
+      "enemies": 5,
+      "playerShots": 16
+    },
+    {
+      "second": 7.020600000011921,
+      "enemies": 4,
+      "playerShots": 13
+    },
+    {
+      "second": 8.02070000001192,
+      "enemies": 4,
+      "playerShots": 15
+    },
+    {
+      "second": 9.02070000001192,
+      "enemies": 6,
+      "playerShots": 12
+    },
+    {
+      "second": 10.02080000001192,
+      "enemies": 6,
+      "playerShots": 14
+    },
+    {
+      "second": 11.020900000011922,
+      "enemies": 6,
+      "playerShots": 11
+    },
+    {
+      "second": 12.020900000011922,
+      "enemies": 3,
+      "playerShots": 9
+    },
+    {
+      "second": 13.020900000011922,
+      "enemies": 4,
+      "playerShots": 10
+    },
+    {
+      "second": 14.021000000011922,
+      "enemies": 5,
+      "playerShots": 15
+    },
+    {
+      "second": 15.02110000001192,
+      "enemies": 5,
+      "playerShots": 15
+    },
+    {
+      "second": 16.021200000011923,
+      "enemies": 5,
+      "playerShots": 8
+    },
+    {
+      "second": 17.03780000001192,
+      "enemies": 4,
+      "playerShots": 13
+    },
+    {
+      "second": 18.03780000001192,
+      "enemies": 4,
+      "playerShots": 11
+    },
+    {
+      "second": 19.038000000011923,
+      "enemies": 5,
+      "playerShots": 7
+    },
+    {
+      "second": 20.054700000011923,
+      "enemies": 3,
+      "playerShots": 12
+    },
+    {
+      "second": 21.07130000001192,
+      "enemies": 5,
+      "playerShots": 17
+    },
+    {
+      "second": 22.071500000011923,
+      "enemies": 6,
+      "playerShots": 11
+    },
+    {
+      "second": 23.08810000001192,
+      "enemies": 5,
+      "playerShots": 17
+    },
+    {
+      "second": 24.088200000011923,
+      "enemies": 4,
+      "playerShots": 10
+    },
+    {
+      "second": 25.10480000001192,
+      "enemies": 4,
+      "playerShots": 7
+    },
+    {
+      "second": 26.10510000001192,
+      "enemies": 3,
+      "playerShots": 15
+    },
+    {
+      "second": 27.12150000001192,
+      "enemies": 4,
+      "playerShots": 13
+    },
+    {
+      "second": 28.12150000001192,
+      "enemies": 5,
+      "playerShots": 12
+    },
+    {
+      "second": 29.121700000011923,
+      "enemies": 5,
+      "playerShots": 14
+    },
+    {
+      "second": 30.121700000011923,
+      "enemies": 5,
+      "playerShots": 10
+    },
+    {
+      "second": 31.13840000001192,
+      "enemies": 4,
+      "playerShots": 11
+    },
+    {
+      "second": 32.138500000011916,
+      "enemies": 5,
+      "playerShots": 12
+    },
+    {
+      "second": 33.155200000011924,
+      "enemies": 5,
+      "playerShots": 14
+    },
+    {
+      "second": 34.17180000001192,
+      "enemies": 6,
+      "playerShots": 18
+    },
+    {
+      "second": 35.17180000001192,
+      "enemies": 4,
+      "playerShots": 10
+    },
+    {
+      "second": 36.17190000001192,
+      "enemies": 5,
+      "playerShots": 13
+    },
+    {
+      "second": 37.17190000001192,
+      "enemies": 6,
+      "playerShots": 10
+    },
+    {
+      "second": 38.17200000001192,
+      "enemies": 5,
+      "playerShots": 11
+    },
+    {
+      "second": 39.17200000001192,
+      "enemies": 4,
+      "playerShots": 3
+    },
+    {
+      "second": 40.17220000001192,
+      "enemies": 4,
+      "playerShots": 18
+    },
+    {
+      "second": 41.18880000001192,
+      "enemies": 5,
+      "playerShots": 16
+    },
+    {
+      "second": 42.18880000001192,
+      "enemies": 6,
+      "playerShots": 14
+    },
+    {
+      "second": 43.18890000001192,
+      "enemies": 6,
+      "playerShots": 13
+    },
+    {
+      "second": 44.18890000001192,
+      "enemies": 4,
+      "playerShots": 9
+    },
+    {
+      "second": 45.18890000001192,
+      "enemies": 4,
+      "playerShots": 11
+    },
+    {
+      "second": 46.189100000011926,
+      "enemies": 5,
+      "playerShots": 12
+    },
+    {
+      "second": 47.189100000011926,
+      "enemies": 6,
+      "playerShots": 19
+    },
+    {
+      "second": 48.189100000011926,
+      "enemies": 7,
+      "playerShots": 10
+    },
+    {
+      "second": 49.189100000011926,
+      "enemies": 7,
+      "playerShots": 12
+    },
+    {
+      "second": 50.189100000011926,
+      "enemies": 5,
+      "playerShots": 9
+    },
+    {
+      "second": 51.189100000011926,
+      "enemies": 7,
+      "playerShots": 8
+    },
+    {
+      "second": 52.18920000001192,
+      "enemies": 8,
+      "playerShots": 8
+    },
+    {
+      "second": 53.18920000001192,
+      "enemies": 7,
+      "playerShots": 9
+    },
+    {
+      "second": 54.18930000001192,
+      "enemies": 8,
+      "playerShots": 10
+    },
+    {
+      "second": 55.18940000001192,
+      "enemies": 7,
+      "playerShots": 10
+    },
+    {
+      "second": 56.18940000001192,
+      "enemies": 4,
+      "playerShots": 12
+    },
+    {
+      "second": 57.18940000001192,
+      "enemies": 5,
+      "playerShots": 9
+    },
+    {
+      "second": 58.18940000001192,
+      "enemies": 4,
+      "playerShots": 11
+    },
+    {
+      "second": 59.18960000001192,
+      "enemies": 4,
+      "playerShots": 13
+    },
+    {
+      "second": 60.18960000001192,
+      "enemies": 5,
+      "playerShots": 10
+    },
+    {
+      "second": 61.18960000001192,
+      "enemies": 7,
+      "playerShots": 14
+    },
+    {
+      "second": 62.189700000011925,
+      "enemies": 5,
+      "playerShots": 11
+    },
+    {
+      "second": 63.18990000001192,
+      "enemies": 5,
+      "playerShots": 6
+    },
+    {
+      "second": 64.20640000001193,
+      "enemies": 6,
+      "playerShots": 12
+    },
+    {
+      "second": 65.20640000001193,
+      "enemies": 5,
+      "playerShots": 8
+    },
+    {
+      "second": 66.20650000001191,
+      "enemies": 5,
+      "playerShots": 6
+    },
+    {
+      "second": 67.20650000001191,
+      "enemies": 5,
+      "playerShots": 16
+    },
+    {
+      "second": 68.20650000001191,
+      "enemies": 3,
+      "playerShots": 10
+    },
+    {
+      "second": 69.20660000001192,
+      "enemies": 4,
+      "playerShots": 7
+    },
+    {
+      "second": 70.20660000001192,
+      "enemies": 4,
+      "playerShots": 15
+    },
+    {
+      "second": 71.20670000001192,
+      "enemies": 2,
+      "playerShots": 9
+    },
+    {
+      "second": 72.20670000001192,
+      "enemies": 4,
+      "playerShots": 8
+    },
+    {
+      "second": 73.20670000001192,
+      "enemies": 5,
+      "playerShots": 16
+    },
+    {
+      "second": 74.20680000001192,
+      "enemies": 5,
+      "playerShots": 15
+    },
+    {
+      "second": 75.20690000001193,
+      "enemies": 6,
+      "playerShots": 12
+    },
+    {
+      "second": 76.20690000001193,
+      "enemies": 7,
+      "playerShots": 11
+    },
+    {
+      "second": 77.20700000001192,
+      "enemies": 7,
+      "playerShots": 8
+    },
+    {
+      "second": 78.20700000001192,
+      "enemies": 7,
+      "playerShots": 10
+    },
+    {
+      "second": 79.20700000001192,
+      "enemies": 6,
+      "playerShots": 13
+    },
+    {
+      "second": 80.20710000001192,
+      "enemies": 6,
+      "playerShots": 4
+    },
+    {
+      "second": 81.20710000001192,
+      "enemies": 8,
+      "playerShots": 17
+    },
+    {
+      "second": 82.20740000001193,
+      "enemies": 8,
+      "playerShots": 16
+    },
+    {
+      "second": 83.22380000001192,
+      "enemies": 7,
+      "playerShots": 5
+    },
+    {
+      "second": 84.22380000001192,
+      "enemies": 6,
+      "playerShots": 11
+    },
+    {
+      "second": 85.22390000001192,
+      "enemies": 4,
+      "playerShots": 12
+    },
+    {
+      "second": 86.22400000001191,
+      "enemies": 4,
+      "playerShots": 5
+    },
+    {
+      "second": 87.22410000001193,
+      "enemies": 4,
+      "playerShots": 12
+    },
+    {
+      "second": 88.24070000001191,
+      "enemies": 4,
+      "playerShots": 10
+    },
+    {
+      "second": 89.24070000001191,
+      "enemies": 3,
+      "playerShots": 14
+    },
+    {
+      "second": 90.24080000001192,
+      "enemies": 4,
+      "playerShots": 12
+    },
+    {
+      "second": 91.24080000001192,
+      "enemies": 6,
+      "playerShots": 5
+    },
+    {
+      "second": 92.24090000001193,
+      "enemies": 6,
+      "playerShots": 13
+    },
+    {
+      "second": 93.24090000001193,
+      "enemies": 5,
+      "playerShots": 8
+    },
+    {
+      "second": 94.24110000001193,
+      "enemies": 5,
+      "playerShots": 5
+    },
+    {
+      "second": 95.25760000001192,
+      "enemies": 5,
+      "playerShots": 15
+    },
+    {
+      "second": 96.25780000001193,
+      "enemies": 6,
+      "playerShots": 7
+    },
+    {
+      "second": 97.27440000001192,
+      "enemies": 7,
+      "playerShots": 6
+    },
+    {
+      "second": 98.27450000001191,
+      "enemies": 6,
+      "playerShots": 12
+    },
+    {
+      "second": 99.27450000001191,
+      "enemies": 6,
+      "playerShots": 9
+    },
+    {
+      "second": 100.29120000001191,
+      "enemies": 4,
+      "playerShots": 10
+    },
+    {
+      "second": 101.29120000001191,
+      "enemies": 6,
+      "playerShots": 14
+    },
+    {
+      "second": 102.29130000001192,
+      "enemies": 6,
+      "playerShots": 17
+    },
+    {
+      "second": 103.29150000001192,
+      "enemies": 7,
+      "playerShots": 10
+    },
+    {
+      "second": 104.30810000001192,
+      "enemies": 5,
+      "playerShots": 11
+    },
+    {
+      "second": 105.30820000001191,
+      "enemies": 4,
+      "playerShots": 12
+    },
+    {
+      "second": 106.30820000001191,
+      "enemies": 5,
+      "playerShots": 6
+    },
+    {
+      "second": 107.32480000001192,
+      "enemies": 5,
+      "playerShots": 7
+    },
+    {
+      "second": 108.32490000001192,
+      "enemies": 5,
+      "playerShots": 14
+    },
+    {
+      "second": 109.32490000001192,
+      "enemies": 5,
+      "playerShots": 11
+    },
+    {
+      "second": 110.32490000001192,
+      "enemies": 5,
+      "playerShots": 14
+    },
+    {
+      "second": 111.32490000001192,
+      "enemies": 4,
+      "playerShots": 8
+    },
+    {
+      "second": 112.32500000001191,
+      "enemies": 4,
+      "playerShots": 3
+    },
+    {
+      "second": 113.32500000001191,
+      "enemies": 3,
+      "playerShots": 11
+    },
+    {
+      "second": 114.32520000001192,
+      "enemies": 2,
+      "playerShots": 8
+    },
+    {
+      "second": 115.32520000001192,
+      "enemies": 3,
+      "playerShots": 14
+    },
+    {
+      "second": 116.32520000001192,
+      "enemies": 4,
+      "playerShots": 13
+    },
+    {
+      "second": 117.32530000001192,
+      "enemies": 4,
+      "playerShots": 12
+    },
+    {
+      "second": 118.32540000001192,
+      "enemies": 5,
+      "playerShots": 7
+    },
+    {
+      "second": 119.32540000001192,
+      "enemies": 5,
+      "playerShots": 12
+    },
+    {
+      "second": 120.32540000001192,
+      "enemies": 7,
+      "playerShots": 7
+    },
+    {
+      "second": 121.32550000001191,
+      "enemies": 8,
+      "playerShots": 7
+    },
+    {
+      "second": 122.34200000001192,
+      "enemies": 5,
+      "playerShots": 15
+    },
+    {
+      "second": 123.34220000001191,
+      "enemies": 4,
+      "playerShots": 7
+    },
+    {
+      "second": 124.35890000001193,
+      "enemies": 5,
+      "playerShots": 12
+    },
+    {
+      "second": 125.35890000001193,
+      "enemies": 6,
+      "playerShots": 11
+    },
+    {
+      "second": 126.35900000001192,
+      "enemies": 7,
+      "playerShots": 7
+    },
+    {
+      "second": 127.35920000001191,
+      "enemies": 6,
+      "playerShots": 8
+    },
+    {
+      "second": 128.3757000000119,
+      "enemies": 6,
+      "playerShots": 11
+    },
+    {
+      "second": 129.37620000001192,
+      "enemies": 7,
+      "playerShots": 10
+    },
+    {
+      "second": 130.39250000001192,
+      "enemies": 8,
+      "playerShots": 12
+    },
+    {
+      "second": 131.39250000001192,
+      "enemies": 6,
+      "playerShots": 11
+    },
+    {
+      "second": 132.39270000001193,
+      "enemies": 5,
+      "playerShots": 8
+    },
+    {
+      "second": 133.4092000000119,
+      "enemies": 4,
+      "playerShots": 8
+    },
+    {
+      "second": 134.4092000000119,
+      "enemies": 5,
+      "playerShots": 19
+    },
+    {
+      "second": 135.4093000000119,
+      "enemies": 5,
+      "playerShots": 12
+    },
+    {
+      "second": 136.4094000000119,
+      "enemies": 6,
+      "playerShots": 9
+    },
+    {
+      "second": 137.4094000000119,
+      "enemies": 5,
+      "playerShots": 12
+    },
+    {
+      "second": 138.40960000001192,
+      "enemies": 7,
+      "playerShots": 8
+    },
+    {
+      "second": 139.40960000001192,
+      "enemies": 6,
+      "playerShots": 12
+    },
+    {
+      "second": 140.40960000001192,
+      "enemies": 6,
+      "playerShots": 9
+    },
+    {
+      "second": 141.4261000000119,
+      "enemies": 7,
+      "playerShots": 15
+    },
+    {
+      "second": 142.42630000001193,
+      "enemies": 7,
+      "playerShots": 17
+    },
+    {
+      "second": 143.44300000001192,
+      "enemies": 5,
+      "playerShots": 12
+    },
+    {
+      "second": 144.4431000000119,
+      "enemies": 6,
+      "playerShots": 7
+    },
+    {
+      "second": 145.4596000000119,
+      "enemies": 7,
+      "playerShots": 13
+    },
+    {
+      "second": 146.4598000000119,
+      "enemies": 7,
+      "playerShots": 9
+    },
+    {
+      "second": 147.47640000001192,
+      "enemies": 7,
+      "playerShots": 11
+    },
+    {
+      "second": 148.4767000000119,
+      "enemies": 6,
+      "playerShots": 15
+    },
+    {
+      "second": 149.4933000000119,
+      "enemies": 6,
+      "playerShots": 14
+    },
+    {
+      "second": 150.4933000000119,
+      "enemies": 5,
+      "playerShots": 7
+    },
+    {
+      "second": 151.49340000001192,
+      "enemies": 4,
+      "playerShots": 10
+    },
+    {
+      "second": 152.51000000001193,
+      "enemies": 3,
+      "playerShots": 10
+    },
+    {
+      "second": 153.5101000000119,
+      "enemies": 3,
+      "playerShots": 7
+    },
+    {
+      "second": 154.5102000000119,
+      "enemies": 3,
+      "playerShots": 17
+    },
+    {
+      "second": 155.5102000000119,
+      "enemies": 3,
+      "playerShots": 10
+    },
+    {
+      "second": 156.5103000000119,
+      "enemies": 2,
+      "playerShots": 9
+    },
+    {
+      "second": 157.52680000001192,
+      "enemies": 3,
+      "playerShots": 19
+    },
+    {
+      "second": 158.52690000001192,
+      "enemies": 4,
+      "playerShots": 8
+    },
+    {
+      "second": 159.52690000001192,
+      "enemies": 4,
+      "playerShots": 12
+    },
+    {
+      "second": 160.52700000001192,
+      "enemies": 4,
+      "playerShots": 8
+    },
+    {
+      "second": 161.5272000000119,
+      "enemies": 6,
+      "playerShots": 9
+    },
+    {
+      "second": 162.5438000000119,
+      "enemies": 6,
+      "playerShots": 12
+    },
+    {
+      "second": 163.5438000000119,
+      "enemies": 7,
+      "playerShots": 15
+    },
+    {
+      "second": 164.54400000001192,
+      "enemies": 7,
+      "playerShots": 5
+    },
+    {
+      "second": 165.5606000000119,
+      "enemies": 6,
+      "playerShots": 8
+    },
+    {
+      "second": 166.5606000000119,
+      "enemies": 6,
+      "playerShots": 8
+    },
+    {
+      "second": 167.57730000001192,
+      "enemies": 8,
+      "playerShots": 12
+    },
+    {
+      "second": 168.57740000001192,
+      "enemies": 5,
+      "playerShots": 16
+    },
+    {
+      "second": 169.57750000001192,
+      "enemies": 4,
+      "playerShots": 7
+    },
+    {
+      "second": 170.57750000001192,
+      "enemies": 4,
+      "playerShots": 13
+    },
+    {
+      "second": 171.57750000001192,
+      "enemies": 3,
+      "playerShots": 18
+    },
+    {
+      "second": 172.57750000001192,
+      "enemies": 4,
+      "playerShots": 4
+    },
+    {
+      "second": 173.5776000000119,
+      "enemies": 5,
+      "playerShots": 7
+    },
+    {
+      "second": 174.5777000000119,
+      "enemies": 6,
+      "playerShots": 12
+    },
+    {
+      "second": 175.5943000000119,
+      "enemies": 6,
+      "playerShots": 9
+    },
+    {
+      "second": 176.5943000000119,
+      "enemies": 5,
+      "playerShots": 12
+    },
+    {
+      "second": 177.59440000001192,
+      "enemies": 2,
+      "playerShots": 11
+    },
+    {
+      "second": 178.59440000001192,
+      "enemies": 3,
+      "playerShots": 4
+    },
+    {
+      "second": 179.59440000001192,
+      "enemies": 5,
+      "playerShots": 16
+    }
+  ],
+  "memoryCycles": [
+    {
+      "cycle": 1,
+      "heapBytes": 12103400,
+      "documents": 1,
+      "nodes": 119,
+      "listeners": 242,
+      "canvasCount": 1,
+      "state": {
+        "score": 1,
+        "mode": "arena",
+        "onLand": false,
+        "enemyStates": [],
+        "projectiles": [],
+        "running": false,
+        "time": 169.949999999992,
+        "player": {
+          "x": 627.0714369683293,
+          "y": 380.4055042820479,
+          "rotation": 0,
+          "vx": 0,
+          "vy": 0,
+          "hp": 4
+        },
+        "enemies": 0,
+        "shots": 0,
+        "stick": {
+          "x": 0,
+          "y": 0
+        },
+        "touchKeys": {}
+      }
+    },
+    {
+      "cycle": 2,
+      "heapBytes": 12176128,
+      "documents": 1,
+      "nodes": 119,
+      "listeners": 246,
+      "canvasCount": 1,
+      "state": {
+        "score": 0,
+        "mode": "arena",
+        "onLand": false,
+        "enemyStates": [],
+        "projectiles": [],
+        "running": false,
+        "time": 169.949999999992,
+        "player": {
+          "x": 677.0317107639161,
+          "y": 382.54057166849606,
+          "rotation": 0,
+          "vx": 0,
+          "vy": 0,
+          "hp": 4
+        },
+        "enemies": 0,
+        "shots": 0,
+        "stick": {
+          "x": 0,
+          "y": 0
+        },
+        "touchKeys": {}
+      }
+    },
+    {
+      "cycle": 3,
+      "heapBytes": 12236828,
+      "documents": 1,
+      "nodes": 119,
+      "listeners": 245,
+      "canvasCount": 1,
+      "state": {
+        "score": 0,
+        "mode": "arena",
+        "onLand": false,
+        "enemyStates": [],
+        "projectiles": [],
+        "running": false,
+        "time": 169.91666666665864,
+        "player": {
+          "x": 657.7982503285789,
+          "y": 311.83937421834685,
+          "rotation": 0,
+          "vx": 0,
+          "vy": 0,
+          "hp": 4
+        },
+        "enemies": 0,
+        "shots": 0,
+        "stick": {
+          "x": 0,
+          "y": 0
+        },
+        "touchKeys": {}
+      }
+    },
+    {
+      "cycle": 4,
+      "heapBytes": 12273884,
+      "documents": 1,
+      "nodes": 119,
+      "listeners": 242,
+      "canvasCount": 1,
+      "state": {
+        "score": 0,
+        "mode": "arena",
+        "onLand": false,
+        "enemyStates": [],
+        "projectiles": [],
+        "running": false,
+        "time": 169.91666666665864,
+        "player": {
+          "x": 650.0631806447383,
+          "y": 668.618813162399,
+          "rotation": 0,
+          "vx": 0,
+          "vy": 0,
+          "hp": 4
+        },
+        "enemies": 0,
+        "shots": 0,
+        "stick": {
+          "x": 0,
+          "y": 0
+        },
+        "touchKeys": {}
+      }
+    },
+    {
+      "cycle": 5,
+      "heapBytes": 12304248,
+      "documents": 1,
+      "nodes": 119,
+      "listeners": 243,
+      "canvasCount": 1,
+      "state": {
+        "score": 0,
+        "mode": "arena",
+        "onLand": false,
+        "enemyStates": [],
+        "projectiles": [],
+        "running": false,
+        "time": 169.949999999992,
+        "player": {
+          "x": 638.3020227179614,
+          "y": 494.0740321499545,
+          "rotation": 0,
+          "vx": 0,
+          "vy": 0,
+          "hp": 4
+        },
+        "enemies": 0,
+        "shots": 0,
+        "stick": {
+          "x": 0,
+          "y": 0
+        },
+        "touchKeys": {}
+      }
+    }
+  ]
+}

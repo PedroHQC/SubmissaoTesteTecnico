@@ -1,0 +1,13 @@
+{
+  "checkedAt": "2026-10-07T07:17:56.601Z",
+  "build": "npm run build",
+  "checks": [
+    "assets loaded",
+    "production MSW ranking",
+    "production MSW history",
+    "gameplay and pause",
+    "abandon and refresh",
+    "no test-control hooks"
+  ],
+  "errors": []
+}
