@@ -86,9 +86,10 @@ The HTML report is written to `playwright-report/`, and failure screenshots, vid
 
 ## Delivery
 
-- [DEPLOY.md](DEPLOY.md): simple Vercel publication instructions. No deployment or push was performed.
 - [ARCHITECTURE.md](ARCHITECTURE.md): simulation, resource ownership, contracts, caching and persistence.
 - [reports/PROFILING.md](reports/PROFILING.md): measured performance, hardware and limitations.
 - [ASSETS.md](ASSETS.md): asset provenance and dependency licenses.
 
 The postbuild removes only the unused original TestAssets library from `dist/`; it retains the actual game art, audio and MSW worker. Source assets stay in the repository. Normal production builds omit test-control hooks. Existing large-bundle warnings are informational; deferred asset/network loading and mobile fill rate remain optimization opportunities.
+
+Vercel link to play the game: https://submissao-teste-tecnico.vercel.app/
