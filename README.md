@@ -2,6 +2,18 @@
 
 A single-player naval shooter built with React, strict TypeScript and PixiJS. Play in a fixed **Arena**, or select **Open Sea** for the scrolling-world extension. Ranking and history use Axios, TanStack Query and a persistent MSW REST simulation.
 
+## Previews
+
+
+
+https://github.com/user-attachments/assets/5cf61ae8-4b16-4694-bf84-1916db9891cf
+
+
+
+https://github.com/user-attachments/assets/5f6d8384-3819-46cb-9dc6-6a6fe7443f4b
+
+
+
 ## Setup
 
 Node.js 24.x and npm are required. No environment variables, private services or API credentials are needed.
